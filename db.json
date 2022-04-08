@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Very Good!!",
+      "date": "2022-04-06T16:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Monitor",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 500,
+      "comment": "Second Hand Monitor for Sale!",
+      "date": "2022-04-07T16:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Cabbage",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 40,
+      "comment": "Freshly picked Cabbage!",
+      "date": "2022-04-07T16:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
